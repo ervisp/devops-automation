@@ -60,4 +60,8 @@
 		<finalName>devops-integration</finalName>
 	</build>
 
+<<<<<<< HEAD
 </project>
+=======
+</project>
+>>>>>>> 806352a (added dockerfile)
